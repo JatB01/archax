@@ -8,7 +8,7 @@
     "buffer": "node buffer.js",
     "dates": "node dates.js",
     "mock": "node jest.js",
-    "object_keys": "node object_keys.js"
+    "object-keys": "node object-keys.js"
   },
   "author": "",
   "license": "ISC",
