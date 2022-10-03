@@ -16,7 +16,7 @@
 
 3.	Objects and Maps are similar, as in both contain key/value pairs. The key difference is that Objects only support string as key values. However, a Map lets you use any type as a key.
 
-    To declare Object key values you can do object.key = value. For Maps we use map.set(key, value)
+    To declare Object key values you can do `object.key = value`. For Maps we use map.set(key, value)
 
     Maps have certain benefits, they keep the insertion order, they have useful helper functions (map.has(key), map.size and map.foreach) and provide a more efficient way to structure our data.
 
